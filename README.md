@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center"> Testing solution for BQ GDPR anonymization use case.
+<p align="center"> PUBLIC VERSION: Testing solution for BQ GDPR anonymization use case.
     <br> 
 </p>
 
@@ -21,6 +21,8 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
+
+IMPORTANT: This is a public version of the project. Feature files and SQL templates were anonymized. Also, API connection to BigQuery is not possible. Rest of the codebase is intact.
 
 This projects implements a testing solution using python-behave framework to test, whether ID fields in BQ datasets' tables were anonymized successfully.
 
